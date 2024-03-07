@@ -24,7 +24,7 @@ b. crie uma classe Velho, que herda Imovel e possui um desconto no preço. Crie
 <img src="https://github.com/Ligueja/pilares_poo/blob/main/assets/ex02.jpg" width="600"/>
 
 3. Dado o seguinte diagrama:
-<img src="https://github.com/Ligueja/pilares_poo/blob/main/assets/ex.jpg" width="200"/>
+<img src="https://github.com/Ligueja/pilares_poo/blob/main/assets/ex.jpg" width="300"/>
 Identifique os atributos e comportamentos que são comuns entre os 3 animais e encapsule-os na superclasse Animal. Crie pelo menos 1 comportamento diferente para cada animal.
 
 <b>RESULTADO:</b>
